@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Alisson Santos
 ##
-- 🔭 Hoje trabalho com Progress 4GL e Java
-- 🌱 Estudando Spring framework
+- 🔭 Software Engineer (Progress 4GL e Java)
+- 🌱 Atualmente estudando Spring framework
 - 📫 Contate-me no email: alisson-sds@hotmail.com
 ##
 <div>
