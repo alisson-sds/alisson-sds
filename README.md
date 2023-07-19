@@ -17,6 +17,7 @@
   <img align="center" alt="Ali-JS" height="60" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> 
   <img align="center" alt="Ali-TS" height="60" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/> 
   <img align="center" alt="Ali-React" height="60" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> 
+  <img align="center" alt="Ali-React" height="60" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg"/> 
   
 </div>
 
