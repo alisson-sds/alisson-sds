@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Alisson Santos
 ##
-- 🔭 Software Engineer (Progress 4GL e Java)
-- 🌱 Atualmente estudando Spring and React
+- 🔭 Desenvolvedor de Software (Progress 4GL e Java)
+- 🌱 Atualmente estudando Next e Tailwind
 - 📫 Contate-me no email: alisson-sds@hotmail.com
 ##
 <div>
