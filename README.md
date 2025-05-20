@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Alisson Santos
 ##
-- 🔭 Desenvolvedor de Software (Progress 4GL e Java)
-- 🌱 Atualmente estudando Next.js e Tailwind
+- 🔭 Desenvolvedor de Software (Progress 4GL e Datasul)
+- 🌱 Atualmente estudando Angular
 - 📫 Contate-me no email: alisson-sds@hotmail.com
 ##
 <div>
