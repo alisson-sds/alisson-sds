@@ -7,7 +7,7 @@
   
 <div style="display: inline_block"> <br>
   <img align="center" alt="Ali-Java" height="60" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>   
-  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />          
+  <link align="center" alt="Ali-Java" height="60" widht="80" rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />          
   <img align="center" alt="Ali-JS" height="60" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> 
   <img align="center" alt="Ali-TS" height="60" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/> 
   <img align="center" alt="Ali-React" height="60" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> 
