@@ -32,8 +32,6 @@ Desenvolvedor de Software em constante aprendizado e apaixonado por tecnologia!
 
 ---
 
-### 🔗 Conecte-se Comigo
-
 <div align="center">
   <a href="https://www.linkedin.com/in/alisson-sds/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
