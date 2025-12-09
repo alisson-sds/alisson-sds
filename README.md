@@ -1,10 +1,3 @@
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alisson-Sds&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alisson-Sds&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
----
-
 ## 👋 Olá, Eu sou o Alisson Santos
 
 Desenvolvedor de Software em constante aprendizado e apaixonado por tecnologia!
